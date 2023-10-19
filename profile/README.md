@@ -6,7 +6,7 @@
 # Welcome to the All Change Github
 👋 Welcome to All Change; we're a group dedicated to innovating and pushing the boundaries of what's possible. Our current project is the Piccadilly Line project bringing an accurate depiction of the line on ROBLOX
 ## Meet the team
-Meet the people who are bringing the Piccadilly Line to your doorstep. A star (⭐) indicates a project lead
+Meet the people who are bringing the Piccadilly Line to your doorstep.
 
 | Name         | Role     | Additional Roles |
 |--------------|-----------|--------------|
