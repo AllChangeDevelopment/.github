@@ -1,32 +1,16 @@
-# All Change
-
-Welcome to the official All Change Development organisation! We are a group of developers working hard to realistically simulate the Picadilly Line on Roblox.
-
+![All Change](https://jckiehades.xyz/media/banner2.png)
+[![Discord](https://badgen.net/badge/Discord/All%20Change/Black?icon=discord)](https://discord.gg/all-change-community-711953889934573631) [![Twitter](https://badgen.net/badge/Twitter/All%20Change?icon=twitter)](https://twitter.com/AllChangeROBLOX) [![ROBLOX](https://badgen.net/badge/Roblox/All%20Change/Black)](https://www.roblox.com/groups/33039862/AII-Change#!/about)
+### Welcome to the All Change Github
+👋 Welcome to All Change; we're a group dedicated to innovating and pushing the boundaries of what's possible. Our current project is the Piccadilly Line project bringing an accurate depiction of the line on ROBLOX
 ## Meet the team
-### Project Leaders
-- jckiehades
-- tiger
-### Programming department
-- develop331
-- redredstone
-### Modelling department
-- xtomiio
-- SSeaSquidoodley
+Meet the people who are bringing the Piccadilly Line to your doorstep. A star (⭐) indicates a project lead
 
-## Games
-We are currently working on two games: Chassis Testing, and the main Picadilly line game. The purpose of Chassis Testing is to iron out any bugs in our movement system before moving onto the main game. 
-
-We are also working on a website, called Portal, which in the future will bour centralised hub for resources, suggestions and bug reports.
-
-**Thank you!**
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Name         | Role     | Additional Roles |
+|--------------|-----------|--------------|
+| Jackie | Programming|*Project Lead*
+| Tiger | Blender development|*Project Lead*
+| Tom | Building|*Graphics*
+| Squid | Building|*Graphics*
+| Red | Programming (luau)|*Building*
+| Develop | Programming (web)
+| Kylian | Blender development
