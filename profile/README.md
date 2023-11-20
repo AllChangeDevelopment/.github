@@ -8,15 +8,12 @@
 ## 👋 Meet the team
 Meet the people who are bringing the Piccadilly Line to your doorstep.
 
-| Name         | Role     | Additional Roles |
-|--------------|-----------|--------------|
-| Jackie | Programming|*Project Lead*
-| Tiger | Blender development|*Project Lead*
-| Tom | Building|*Graphics*
-| Squid | Building|*Graphics*
-| Red | Programming (luau)|*Building*
+| Name         | Role     |
+|--------------|-----------|
+| Jackie | Programming 
+| Tiger | Blender development 
+| Tom | Building and Design 
 | Develop | Programming (web)
-| Kylian | Blender development
 
 ## 🚀 Our current projects
 This is a list of our current active projects and what we plan to work on in the future
