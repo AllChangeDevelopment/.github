@@ -3,6 +3,7 @@
 [![Discord](https://badgen.net/badge/Discord/All%20Change/Black?icon=discord)](https://discord.gg/all-change-community-711953889934573631) 
 [![Twitter](https://badgen.net/badge/Twitter/All%20Change?icon=twitter)](https://twitter.com/AllChangeROBLOX)
 [![ROBLOX](https://badgen.net/badge/Roblox/All%20Change/Black)](https://www.roblox.com/groups/33039862/AII-Change#!/about)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/te9i.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 # Welcome to the All Change Github organisation
 👋 Welcome to All Change; we're a group dedicated to innovating and pushing the boundaries of what's possible. Our current project is the Piccadilly Line project bringing an accurate depiction of the line on ROBLOX
 ## 👋 Meet the team
